@@ -1,4 +1,4 @@
-# 
+# Enhance Logic Pro for macOS with exclusive Logic Pro for macOS Addon | subtitle-generator + chromatic-aberration-fix, the #1 addon. Includes subtitle-generator and
 
 
 
